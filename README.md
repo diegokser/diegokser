@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **FisioIn Madrid**
 
-- 🌱 I’m currently learning **Next.js and TypeScript**
+- 🌱 I'm on track for learning more about **Next.js and TypeScript**
 
-- 📫 How to reach me **diegokser@gmail.com**
+- 📫 Feel free to reach out to me via email at **diegokser@gmail.com** or connect with me on <a href="https://linkedin.com/in/diegocasermeiro">LinkedIn.</a> I'm always open to interesting opportunities and meaningful collaborations.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
