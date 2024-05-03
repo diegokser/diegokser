@@ -11,8 +11,3 @@
 
 ![Bootstrap](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=JavaScript&color=353535) ![Bootstrap](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=TypeScript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=HTML5&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=CSS3&color=353535) ![Bootstrap](https://img.shields.io/badge/-Next.js-05122A?style=flat-square&logo=Next.js&color=353535) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=Bootstrap&color=353535) ![Bootstrap](https://img.shields.io/badge/-Flask-05122A?style=flat-square&logo=Flask&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535) ![Bootstrap](https://img.shields.io/badge/-Photoshop-05122A?style=flat-square&logo=Photoshop&color=353535) ![Bootstrap](https://img.shields.io/badge/-Figma-05122A?style=flat-square&logo=Figma&color=353535)
 
-
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="hejazizo" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" />
-</div>
