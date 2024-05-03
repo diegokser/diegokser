@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **FisioIn Madrid**
 
-- 🌱 I’m currently learning **React.js and Python**
+- 🌱 I’m currently learning **Next.js and TypeScript**
 
 - 📫 How to reach me **diegokser@gmail.com**
 
